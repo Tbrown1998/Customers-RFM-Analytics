@@ -90,6 +90,7 @@ Using Power BI, we assign **RFM scores** to categorize customers into:
 ✅ **Sales Performance Analysis** – Revenue trends, product demand, and sales distribution.  
 ✅ **Customer Retention Insights** – Identifying at-risk and lost customers.  
 ✅ **RFM Score Breakdown** – Interactive visual analysis of customer behavior.  
+
 ---
 
 ## 🛠️ Tools & Technologies Used  
