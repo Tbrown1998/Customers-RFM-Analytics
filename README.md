@@ -1,5 +1,8 @@
 # 📊 Customer Analytics Dashboard (Power BI)  
 
+![Screenshot (85)](https://github.com/user-attachments/assets/b8746cc2-fec5-4f6e-9c7c-48b234f8bcda)
+
+
 ## 📌 Project Overview  
 This project focuses on **Customer Analytics using RFM (Recency, Frequency, Monetary) Analysis** to segment customers based on their purchasing behavior. By leveraging **Power BI’s data visualization and analytics capabilities**, the dashboard provides actionable insights to improve **sales strategies and customer retention**.
 
@@ -65,24 +68,28 @@ Using Power BI, we assign **RFM scores** to categorize customers into:
 ### **2️⃣ Data Transformation & Modeling**  
 ✔ **Established relationships** between transaction and customer data.  
 ✔ **Created DAX measures** for RFM calculations.  
-✔ **Generated segmentation groups** using RFM scores.  
+✔ **Generated segmentation groups** using RFM scores. 
 
 ![Screenshot (84)](https://github.com/user-attachments/assets/f280602d-3ad0-4c76-9b9f-753b88645109)
+- *Image Showing Completed Data Model*
 
 ---
 
-## 📊 Power BI Customer Analytics Dashboard  
+## 📊 Power BI Customer Analytics Dashboard 
 
-📌 **Live Dashboard Link**: [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID)  
+![Screenshot (85)](https://github.com/user-attachments/assets/8a2bbf3e-18c7-41fd-9b47-837844346bb3)
+
+### Explore the Interactive Dashboard 
+- Use slicers to **filter customers by RFM scores, sales trends, and spending patterns**.  
+- Hover over visuals to **view detailed customer insights**.  
+
+📌 **Live Dashboard Link**: Click to [View Live Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID) 
 
 ### **Dashboard Features:**  
 ✅ **Customer Segmentation View** – RFM-based classification of customers.  
 ✅ **Sales Performance Analysis** – Revenue trends, product demand, and sales distribution.  
 ✅ **Customer Retention Insights** – Identifying at-risk and lost customers.  
 ✅ **RFM Score Breakdown** – Interactive visual analysis of customer behavior.  
-
-![Customer Analytics Dashboard](https://github.com/yourusername/customer-analytics/blob/main/dashboard_screenshot.png)  
-
 ---
 
 ## 🛠️ Tools & Technologies Used  
@@ -100,22 +107,6 @@ Using Power BI, we assign **RFM scores** to categorize customers into:
 
 ---
 
-## 🚀 How to Use This Project  
-
-### **1️⃣ Download the Power BI Report**  
-- Download the `.pbix` file from the repository.  
-- Open it using **Power BI Desktop**.  
-
-### **2️⃣ Connect to the Dataset**  
-- The dataset is available in `.csv` format inside the `/data` folder.  
-- Load it into Power BI for further exploration.  
-
-### **3️⃣ Explore the Interactive Dashboard**  
-- Use slicers to **filter customers by RFM scores, sales trends, and spending patterns**.  
-- Hover over visuals to **view detailed customer insights**.  
-
----
-
 ## 🏆 Contribution Guidelines
 🔹 If you find this project useful, **star** ⭐ the repository!  
 🔹 Fork the repository and submit a **pull request** for improvements.  
@@ -129,9 +120,11 @@ Hi, I'm Oluwatosin Amosu Bolaji, a Data Analyst skilled in SQL, Power BI, and Ex
 - **🔹 Key Skills:** Data Analysis | SQL Queries | Power BI Dashboards | Data Cleaning | Reporting
 - **🔹 Passionate About:** Data storytelling, problem-solving, and continuous learning
 
-## 📬 Contact & Connect
-- **📩 Email**: your-email@example.com  
-- **💼 LinkedIn**: [linkedin.com/in/yourprofile](#)  
+#### 🚀 **Always learning and improving—driven by curiosity and a passion for analytics.**  
+
+### 📫 **Let’s connect!**  
+- 📩 oluwabolaji60@gmail.com
+- 🔗 : [LinkedIn](https://www.linkedin.com/in/oluwatosin-amosu-722b88141)
 - **🐦 Twitter/X**: [@yourhandle](#)  
 - **🌍 Portfolio**: [your-portfolio-link.com](#)  
 
