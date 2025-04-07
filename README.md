@@ -1,4 +1,4 @@
-# 📊 Customer RFM Analytics Dashboard (Power BI)  
+# 📊 Customer RFM Analytics Dashboard Analysis (Using Power BI)  
 
 ![Screenshot (85)](https://github.com/user-attachments/assets/b8746cc2-fec5-4f6e-9c7c-48b234f8bcda)
 
