@@ -23,7 +23,16 @@ This project answers key business questions:
 - **Who are the most valuable customers based on their purchasing behavior?**  
 - **How frequently do customers make purchases, and how recently did they buy?**  
 - **Which customer segments contribute the most to revenue?**  
-- **How can businesses optimize marketing strategies based on customer segmentation?**  
+- **How can businesses optimize marketing strategies based on customer segmentation?**
+
+---
+
+## 🛠️ Tools & Technologies Used  
+✔ **Power BI** - Data cleaning (Power Query), modeling, and visualization  
+✔ **DAX (Data Analysis Expressions)** - Calculated measures for RFM scores  
+✔ **Excel** - Initial dataset inspection and preprocessing 
+- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?logo=powerbi&logoColor=black)
+
 
 ---
 
@@ -77,7 +86,15 @@ Using Power BI, we assign **RFM scores** to categorize customers into:
 
 ## 📊 Power BI Customer Analytics Dashboard 
 
+### Dashboard Overview:
 ![Screenshot (85)](https://github.com/user-attachments/assets/8a2bbf3e-18c7-41fd-9b47-837844346bb3)
+
+### Customer Segmentation Analysis:
+![Screenshot (86)](https://github.com/user-attachments/assets/4e0ee34d-08c1-4a56-b104-279909624f47)
+
+### Customer Details:
+![Screenshot (116)](https://github.com/user-attachments/assets/fc78f0a5-d5ea-4026-94d5-dffbbc296ee5)
+
 
 ### Explore the Interactive Dashboard 
 - Use slicers to **filter customers by RFM scores, sales trends, and spending patterns**.  
@@ -90,13 +107,6 @@ Using Power BI, we assign **RFM scores** to categorize customers into:
 ✅ **Sales Performance Analysis** – Revenue trends, product demand, and sales distribution.  
 ✅ **Customer Retention Insights** – Identifying at-risk and lost customers.  
 ✅ **RFM Score Breakdown** – Interactive visual analysis of customer behavior.  
-
----
-
-## 🛠️ Tools & Technologies Used  
-✔ **Power BI** - Data cleaning (Power Query), modeling, and visualization  
-✔ **DAX (Data Analysis Expressions)** - Calculated measures for RFM scores  
-✔ **Excel** - Initial dataset inspection and preprocessing  
 
 ---
 
@@ -116,18 +126,24 @@ Using Power BI, we assign **RFM scores** to categorize customers into:
 ---
 
 ## 📌 About Me
-Hi, I'm Oluwatosin Amosu Bolaji, a Data Analyst skilled in SQL, Power BI, and Excel. I enjoy turning complex datasets into actionable insights through data visualization and business intelligence techniques.
+Hi, I'm Oluwatosin Amosu Bolaji, a Data Analyst with strong skills in Python, SQL, Power BI, and Excel. I turn raw data into actionable insights through automation, data storytelling, and visual analytics.
 
-- **🔹 Key Skills:** Data Analysis | SQL Queries | Power BI Dashboards | Data Cleaning | Reporting
-- **🔹 Passionate About:** Data storytelling, problem-solving, and continuous learning
+- **💡 Tools & Tech:** **Python** (Pandas, NumPy, Matplotlib, Seaborn) | **SQL** (MsSQL, Postgree, MySQL) | **Microsoft Power BI** | **Microsoft Excel**
+- **🔹 Key Skills:** Data wrangling, dashboarding, reporting, and process optimization.
+- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.21.0-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.0-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-black?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-5.5.0-3F4F75?logo=plotly)
+- ![SQL](https://img.shields.io/badge/SQL-Server-red?logo=microsoft-sql-server&logoColor=white) ![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?logo=powerbi&logoColor=black)
+- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-#### 🚀 **Always learning and improving—driven by curiosity and a passion for analytics.**  
+#### 🚀 **Always learning. Always building. Data-driven to the core.**  
 
 ### 📫 **Let’s connect!**  
 - 📩 oluwabolaji60@gmail.com
 - 🔗 : [LinkedIn](https://www.linkedin.com/in/oluwatosin-amosu-722b88141)
-- **🐦 Twitter/X**: [@yourhandle](#)  
-- **🌍 Portfolio**: [your-portfolio-link.com](#)  
+- 🌐 : [My Portfolio](https://www.datascienceportfol.io/oluwabolaji60) 
+- 𝕏 : [Twitter/X](https://x.com/thee_oluwatosin?s=21&t=EqoeQVdQd038wlSUzAtQzw)
+- 🔗 : [Medium](https://medium.com/@oluwabolaji60)
+- 🔗 : [View my Repositories](https://github.com/Tbrown1998?tab=repositories)
 
 ---
 📌 **If you found this project useful, please give it a ⭐!**  
